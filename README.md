@@ -39,7 +39,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-[Sumit Agnihotri](https://github.com/saumyap48/TITANIC_SURVIVAL_PREDICTION)
+[Saumya Pandey](https://github.com/saumyap48/TITANIC_SURVIVAL_PREDICTION)
 
 ## Acknowledgments
 
