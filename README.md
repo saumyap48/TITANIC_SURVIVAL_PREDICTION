@@ -14,14 +14,6 @@ The TITANIC SURVIVAL PREDICTION project aims to predict the survival of passenge
 - Model training and evaluation
 - Visualization of results
 
-## Getting Started
-
-To get started with this project, clone the repository and follow the instructions provided in the Jupyter Notebook.
-
-```bash
-git clone https://github.com/Sumit-Agnihotri/TITANIC_SURVIVAL_PREDICTION.git
-```
-
 ## Prerequisites
 
 - Python 3.x
